@@ -1,15 +1,17 @@
 # Server-side-Development-with-NodeJS
 [The Hong Kong University of Science and Technology, course 5 on the Full-stack Developer program.](https://www.coursera.org/learn/server-side-development/home/welcome)
 ----------------------------
-
+This course is focused on the server-side <br>
+part of coding. Interesting and various <br>
+servers to make this course a great <br>
+learning tool in back-end coding.
 
 ## Week 1 and 2:
   
   * `Node.js and NPM`
   * `Node Modules`
-  * `Node HTTP module`
-  * `Express`
-  * `REST API`
+  * `Express, REST API, Express generator`
+  * `MongoDB, MongooseODM`
    
 ## Week 3 and 4:
 

@@ -1,3 +1,4 @@
+// Exercise
 var rect = require('./rectangle-2');
 
 function solveRect(l,b) {

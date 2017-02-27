@@ -23,4 +23,20 @@ learning tool in back-end coding.
   to make it easier and less work, since I started this course abit behind schedule.
   
 
+### Links:
+
+[MongoDB](https://www.mongodb.com/)  <br>
+   * `Database using Mongo`
+   * `Easy to set-up`  <br>
+
+[MongoDB Manual](https://docs.mongodb.com/manual/) <br>
+   * `Step-by-step guide to install MongoDB`
+   * `MongoDB shell` <br> 
+  
+[Express generator](http://expressjs.com/)  <br>
+   * `Documentation`
+   * `Information`
+   * `Guides`
+  
+
    

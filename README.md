@@ -10,11 +10,20 @@ learning tool in back-end coding.
   
   * `Node.js and NPM`
   * `Node Modules`
+  * `Node and the HTTP module`
   * `Express, REST API, Express generator`
   * `MongoDB, MongooseODM`
    
 ## Week 3 and 4:
 
+  * `REST API with MongoDB, Express and Mongoose`
+  * `Authentication`
+  * `Cookies`
+  * `User-Authentication with passport`
+  * `Mongoose Population`
+  * `HTTPS and Secure communication`
+  * `OAuth with passport and facebook`
+  * `Loopback, Data sources and Access control`
    
 
 ### Additional information:

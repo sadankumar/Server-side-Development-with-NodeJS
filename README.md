@@ -30,8 +30,8 @@ learning tool in back-end coding.
 
   I had some trouble with a previous repository, so I just made a new one <br>
   to make it easier and less work, since I started this course abit behind schedule. <br>
-<ul>I also found some useful links to update the repository from gitBash to make <br>
-  merging changes to this repository easier than adding singular files </ul>:
+<u>I also found some useful links to update the repository from gitBash to make <br>
+  merging changes to this repository easier than adding singular files </u>:
   
 * `$ git add .`
 * `$ git commit -m "made some changes"`

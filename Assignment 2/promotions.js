@@ -1,3 +1,4 @@
+// Assignment 2
 var mongoose = require('mongoose');
 require('mongoose-currency').loadType(mongoose);
 

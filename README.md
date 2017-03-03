@@ -42,14 +42,14 @@ learning tool in back-end coding.
 
 ### Links:
 --------------------------------------------------------------------------------------------
- ![MongoDB]:(https://www.mongodb.com/)
+ [MongoDB](https://www.mongodb.com/):
 
 ![MongoDB logo](https://mfactorengineering.com/img/mongo_logo_square.png)
   <br>
    * `Database using Mongo`
    * `Easy to set-up`  <br>
 
-:page_facing_up: ![MongoDB Manual](https://docs.mongodb.com/manual/) <br>
+:page_facing_up: [MongoDB Manual](https://docs.mongodb.com/manual/) <br>
    * `Step-by-step guide to install MongoDB`
    * `MongoDB shell` <br> 
   

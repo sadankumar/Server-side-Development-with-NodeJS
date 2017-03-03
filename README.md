@@ -42,7 +42,7 @@ learning tool in back-end coding.
 
 ### Links:
 
-![MongoDB logo](http://imgur.com/a/eoNgs)[MongoDB](https://www.mongodb.com/)  <br>
+![MongoDB logo](http://static1.squarespace.com/static/513914cde4b0f86e34bbb954/513e41b5e4b03d54a0792254/54d9040be4b0a47608fcd12b/1424284504010/?format=1000w)[MongoDB](https://www.mongodb.com/)  <br>
    * `Database using Mongo`
    * `Easy to set-up`  <br>
 

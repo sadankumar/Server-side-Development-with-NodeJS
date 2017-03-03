@@ -42,8 +42,9 @@ learning tool in back-end coding.
 
 ### Links:
 
+MongoDB:
 ![MongoDB logo](https://mfactorengineering.com/img/mongo_logo_square.png)
-Format: ![MongoDB](https://www.mongodb.com/)  <br>
+  <br>
    * `Database using Mongo`
    * `Easy to set-up`  <br>
 

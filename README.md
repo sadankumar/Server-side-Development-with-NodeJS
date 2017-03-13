@@ -42,9 +42,9 @@ learning tool in back-end coding.
 
 ### Links:
 --------------------------------------------------------------------------------------------
- [MongoDB](https://www.mongodb.com/):
 
-![MongoDB logo](https://mfactorengineering.com/img/mongo_logo_square.png)
+
+[<img src="https://mfactorengineering.com/img/mongo_logo_square.png">](https://www.mongodb.com/)
   <br>
    * `Database using Mongo`
    * `Easy to set-up`  <br>

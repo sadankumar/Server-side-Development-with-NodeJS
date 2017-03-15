@@ -27,7 +27,7 @@ learning tool in back-end coding.
    
 
 ### Additional information:
-
+-------------------------------
   I had some trouble with a previous repository, so I just made a new one <br>
   to make it easier and less work, since I started this course abit behind schedule. <br>
   ---------------------------------------------------------------------------------------

@@ -42,10 +42,10 @@ to make it easier and less work, since I started this course abit behind schedul
 * `$ git remote add origin git@github.com:yourusername/yourreponame.git`
 * `$ git push origin master`
   
-
+----------------------------
 ### Links:
-
-#### MongoDB:
+=============
+#### MongoDB
 
 [<img src="https://mfactorengineering.com/img/mongo_logo_square.png">](https://www.mongodb.com/)
   <br>

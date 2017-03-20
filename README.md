@@ -31,6 +31,11 @@ learning tool in back-end coding.
   
 I had some trouble with a previous repository, so I just made a new one <br>
 to make it easier and less work, since I started this course abit behind schedule. <br>
+
+---------------------------------------------------------------------------------------
+This course is now finnished, and just to inform you; I skipped the last part of the course, due to some problems <br>
+that the MongoDB server gave me, and I couldn't find a fix for it that wouldn't take me weeks to do. <br>
+I simply didn't have the time to fix/do it, but I hope you will manage to.
   
   ---------------------------------------------------------------------------------------
   

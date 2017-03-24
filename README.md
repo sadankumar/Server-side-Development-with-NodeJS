@@ -1,6 +1,9 @@
 # Server-side-Development-with-NodeJS
 [The Hong Kong University of Science and Technology, course 5 on the Full-stack Developer program.](https://www.coursera.org/learn/server-side-development/home/welcome)
 ----------------------------
+
+[<img src="https://lh3.googleusercontent.com/8jzcuWZMsWWepo4fuM8U4ldLpZ4RraUTPZcVO8qf4wuPqkY6oUB5W2ytZORIiw8My1mb=s108">](https://www.coursera.org/) <br>
+<br>
 This course is focused on the server-side <br>
 part of coding. Interesting and various <br>
 servers to make this course a great <br>
